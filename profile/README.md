@@ -4,9 +4,9 @@ As of November 2024, we’ve officially migrated from the MoFuSS GitLab account 
 
 Stay tuned for updates, and thank you for your support as we continue to grow!
 
-MoFuSS uses Google Earth Engine for data download, R for data preparation and graphs, C++ for harvest probabiility maps, DINAMICA EGO for geospatial simulations (core scripts), ffmpeg for animations, and LaTeX for final reports.
+MoFuSS is open-source and open-access. It uses Google Earth Engine for data download, R for data preparation and graphs, C++ for harvest probabiility maps, DINAMICA EGO for geospatial simulations (core scripts), ffmpeg for animations, and LaTeX for final reports.
 
-As of November 25, 2024, the project does not include a license, effectively making it closed source. While others can view the code, they cannot legally use, modify, or distribute it. We plan to reopen the project after completing the development of the web-MoFuSS interface. This interface will provide the most user-friendly way to run MoFuSS with your own parameters on our HPC clusters—no installation required.
+We are now working on the development of the web-MoFuSS interface. This interface will provide the most user-friendly way to run MoFuSS with your own parameters on our HPC clusters—no installation required.
 
 Explore global geospatial results and access comprehensive documentation by visiting [MoFuSS's official website](https://www.mofuss.unam.mx/).
 
